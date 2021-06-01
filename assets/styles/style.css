@@ -49,6 +49,11 @@ main h1{
     outline: none;
 }
 
+span{
+    font-size: 0.9em;
+    font-weight: 700;
+}
+
 button{
     padding: 10px 20px;
     width: 40%;
